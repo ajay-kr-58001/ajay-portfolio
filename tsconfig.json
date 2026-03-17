@@ -6,4 +6,5 @@
   ]
   "compilerOptions": {
     "skipLibCheck": true
+  }
 }
